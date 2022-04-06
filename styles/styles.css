@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(238, 238, 238) !important;
+}
+nav.navbar a{
+    color: #fff !important;
+    margin-left: 20px !important;
+}
+.error-text{
+    font-size: .95rem;
+    color: red;
+    font-style: italic;
+    padding: 0 10px;
+    /* background-color: rgb(247, 198, 206); */
+}
